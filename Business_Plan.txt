@@ -1,0 +1,44 @@
+*** Jobby ***
+
+Its gonna be an app that will help other people find their right jobs. What will make the difference is the ease of finding a job and also we'll not allow fake jobs. This application will allow the job seaker to be presented to the jobs that fits the profile and the jobs that fit the taste of the job seeker
+
+Implementations***
+
+-User Profile {
+	Nombre completo
+	Profile photo
+	Edad
+	Estudios
+	CV
+	Ubicacion
+	Hobies
+	Skills
+}
+
+-Business Profile {
+	Name 
+	Verified
+	About 
+	Profile pic
+	Website
+}
+
+Job seeker post {
+	Name 
+	Profile Pic
+	Message
+	Location
+}
+
+Business Post {
+	Name 
+	Profile pic
+	Message
+	Vacants
+	Location
+	Requisites
+}
+
+To authenticate the business in mexico its gonna be required to provide the Registro publico de comercio or any other proof that the business its real, it will be checked by our personal and if the business its not registred or not verified we'll take down the user and also the job seekers would be able to report suspicious business and they will be able to send the necesary proof.
+
+We'll be running descret ads to make some money back and the business can pay more to reach more posible people aswell the job seekers.
