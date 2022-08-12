@@ -39,6 +39,8 @@ Business Post {
 	Requisites
 }
 
+
+
 To authenticate the business in mexico its gonna be required to provide the Registro publico de comercio or any other proof that the business its real, it will be checked by our personal and if the business its not registred or not verified we'll take down the user and also the job seekers would be able to report suspicious business and they will be able to send the necesary proof.
 
 We'll be running descret ads to make some money back and the business can pay more to reach more posible people aswell the job seekers.

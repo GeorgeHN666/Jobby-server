@@ -16,7 +16,7 @@ clean:
 #build_api: build the api for the backend
 build_api: 
 	@echo Building API...
-	@go build -o dist/jobby_api.exe ./cmd/api 
+	@go build -o dist/jobby_api.exe ./cmd 
 	@echo API built!!!
 
 #start: will start to build and run
